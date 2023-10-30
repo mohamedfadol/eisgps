@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.278" height="18.278" viewBox="0 0 18.278 18.278">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+      }
+    </style>
+  </defs>
+  <g id="Icon_ionic-md-time" data-name="Icon ionic-md-time" transform="translate(-2.875 -2.875)">
+    <path id="Path_2364" data-name="Path 2364" class="cls-1" d="M12.006,3.375a8.639,8.639,0,1,0,8.647,8.639A8.636,8.636,0,0,0,12.006,3.375Zm.008,15.55a6.911,6.911,0,1,1,6.911-6.911A6.911,6.911,0,0,1,12.014,18.925Z" transform="translate(0 0)"/>
+    <path id="Path_2365" data-name="Path 2365" class="cls-1" d="M17.833,10.687h-1.3v5.183l4.536,2.72.648-1.063-3.888-2.305Z" transform="translate(-5.387 -2.993)"/>
+  </g>
+</svg>

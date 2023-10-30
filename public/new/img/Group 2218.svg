@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+    <clipPath id="clip-2">
+      <use xlink:href="#fill-2"/>
+    </clipPath>
+    <clipPath id="clip-3">
+      <use xlink:href="#fill-3"/>
+    </clipPath>
+    <clipPath id="clip-4">
+      <use xlink:href="#fill-4"/>
+    </clipPath>
+    <clipPath id="clip-5">
+      <use xlink:href="#fill-5"/>
+    </clipPath>
+    <clipPath id="clip-6">
+      <use xlink:href="#fill-6"/>
+    </clipPath>
+    <clipPath id="clip-7">
+      <use xlink:href="#fill-7"/>
+    </clipPath>
+    <clipPath id="clip-8">
+      <use xlink:href="#fill-8"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2218" data-name="Group 2218" transform="translate(-315 -108)">
+    <g id="Rectangle_145" data-name="Rectangle 145" transform="translate(315 119.224) rotate(-90)" fill="#fff" stroke="#537895" stroke-width="1">
+      <rect width="1.448" height="4.345" stroke="none"/>
+      <rect x="0.5" y="0.5" width="0.448" height="3.345" fill="none"/>
+    </g>
+    <g id="Rectangle_146" data-name="Rectangle 146" transform="translate(319.797 110.694) rotate(-42)" fill="#fff" stroke="#537895" stroke-width="1">
+      <rect id="fill" width="0.724" height="2.172" stroke="none"/>
+      <path d="M0,0.5h0.7241379022598267M0.5,0v2.1724138259887695M0.7241379022598267,1.6724138259887695h-0.7241379022598267M0.22413790225982666,2.1724138259887695v-2.1724138259887695" fill="none" clip-path="url(#clip)"/>
+    </g>
+    <g id="Rectangle_147" data-name="Rectangle 147" transform="matrix(0.545, -0.839, 0.839, 0.545, 317.172, 114.242)" fill="#fff" stroke="#537895" stroke-width="1">
+      <rect id="fill-2" width="0.724" height="2.172" stroke="none"/>
+      <path d="M0,0.5h0.7241379022598267M0.5,0v2.1724138259887695M0.7241379022598267,1.6724138259887695h-0.7241379022598267M0.22413790225982666,2.1724138259887695v-2.1724138259887695" fill="none" clip-path="url(#clip-2)"/>
+    </g>
+    <g id="Rectangle_148" data-name="Rectangle 148" transform="translate(318.183 124.474) rotate(-132)" fill="#fff" stroke="#537895" stroke-width="1">
+      <rect id="fill-3" width="0.724" height="2.172" stroke="none"/>
+      <path d="M0,0.5h0.7241379022598267M0.5,0v2.1724138259887695M0.7241379022598267,1.6724138259887695h-0.7241379022598267M0.22413790225982666,2.1724138259887695v-2.1724138259887695" fill="none" clip-path="url(#clip-3)"/>
+    </g>
+    <g id="Rectangle_149" data-name="Rectangle 149" transform="matrix(-0.875, -0.485, 0.485, -0.875, 321.307, 127.32)" fill="#fff" stroke="#537895" stroke-width="1">
+      <rect id="fill-4" width="0.724" height="2.172" stroke="none"/>
+      <path d="M0,0.5h0.7241379022598267M0.5,0v2.1724138259887695M0.7241379022598267,1.6724138259887695h-0.7241379022598267M0.22413790225982666,2.1724138259887695v-2.1724138259887695" fill="none" clip-path="url(#clip-4)"/>
+    </g>
+    <g id="Group_2217" data-name="Group 2217" transform="translate(324.214 109.074)">
+      <g id="Rectangle_142" data-name="Rectangle 142" transform="matrix(1, -0.017, 0.017, 1, 0, 0.025)" fill="#fff" stroke="#537895" stroke-width="1">
+        <rect width="1.448" height="4.345" stroke="none"/>
+        <rect x="0.5" y="0.5" width="0.448" height="3.345" fill="none"/>
+      </g>
+      <g id="Rectangle_143" data-name="Rectangle 143" transform="matrix(1, -0.017, 0.017, 1, 0.362, 14.508)" fill="#fff" stroke="#537895" stroke-width="1">
+        <rect width="1.448" height="4.345" stroke="none"/>
+        <rect x="0.5" y="0.5" width="0.448" height="3.345" fill="none"/>
+      </g>
+      <g id="Rectangle_144" data-name="Rectangle 144" transform="translate(6.917 9.426) rotate(-90)" fill="#fff" stroke="#537895" stroke-width="1">
+        <rect width="1.448" height="4.345" stroke="none"/>
+        <rect x="0.5" y="0.5" width="0.448" height="3.345" fill="none"/>
+      </g>
+      <g id="Rectangle_150" data-name="Rectangle 150" transform="translate(5.831 17.625) rotate(159)" fill="#fff" stroke="#537895" stroke-width="1">
+        <rect id="fill-5" width="0.724" height="2.172" stroke="none"/>
+        <path d="M0,0.5h0.7241379022598267M0.5,0v2.1724138259887695M0.7241379022598267,1.6724138259887695h-0.7241379022598267M0.22413790225982666,2.1724138259887695v-2.1724138259887695" fill="none" clip-path="url(#clip-5)"/>
+      </g>
+      <g id="Rectangle_151" data-name="Rectangle 151" transform="translate(9.166 14.506) rotate(138)" fill="#fff" stroke="#537895" stroke-width="1">
+        <rect id="fill-6" width="0.724" height="2.172" stroke="none"/>
+        <path d="M0,0.5h0.7241379022598267M0.5,0v2.1724138259887695M0.7241379022598267,1.6724138259887695h-0.7241379022598267M0.22413790225982666,2.1724138259887695v-2.1724138259887695" fill="none" clip-path="url(#clip-6)"/>
+      </g>
+      <g id="Rectangle_152" data-name="Rectangle 152" transform="translate(8.69 3.671) rotate(59)" fill="#fff" stroke="#537895" stroke-width="1">
+        <rect id="fill-7" width="0.724" height="2.172" stroke="none"/>
+        <path d="M0,0.5h0.7241379022598267M0.5,0v2.1724138259887695M0.7241379022598267,1.6724138259887695h-0.7241379022598267M0.22413790225982666,2.1724138259887695v-2.1724138259887695" fill="none" clip-path="url(#clip-7)"/>
+      </g>
+      <g id="Rectangle_153" data-name="Rectangle 153" transform="translate(5.21 0.343) rotate(31)" fill="#fff" stroke="#537895" stroke-width="1">
+        <rect id="fill-8" width="0.724" height="2.172" stroke="none"/>
+        <path d="M0,0.5h0.7241379022598267M0.5,0v2.1724138259887695M0.7241379022598267,1.6724138259887695h-0.7241379022598267M0.22413790225982666,2.1724138259887695v-2.1724138259887695" fill="none" clip-path="url(#clip-8)"/>
+      </g>
+    </g>
+    <g id="Ellipse_89" data-name="Ellipse 89" transform="translate(315 108)" fill="none" stroke="#0d2443" stroke-width="2">
+      <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+      <circle cx="10.5" cy="10.5" r="9.5" fill="none"/>
+    </g>
+    <path id="Intersection_1" data-name="Intersection 1" d="M0,16.939V.06A7.7,7.7,0,0,1,.964,0,8.278,8.278,0,0,1,9,8.5,8.278,8.278,0,0,1,.964,17,7.684,7.684,0,0,1,0,16.939Z" transform="translate(325 110)" fill="#537895" opacity="0.28"/>
+    <text id="_24" data-name="24" transform="translate(322 121)" fill="#537895" font-size="7" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">24</tspan></text>
+  </g>
+</svg>

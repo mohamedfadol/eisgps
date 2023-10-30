@@ -1,0 +1,236 @@
+.btn-logg{
+    background: -webkit-linear-gradient(#eee, #a1a1a1);
+    font-weight: bold !important;
+}
+.login-main {
+ /*   background-image: url(../img/Group\ 2880.png);*/
+    width: 100%;
+    height: 100vh;
+    padding-top: 10px;
+    padding-bottom: 5%;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.chat-slide{
+    min-width: 320px !important;
+}
+.image-login {
+    padding-top: 5%;
+}
+.Group-15 {
+    width: 265.4px;
+    height: 66.8px;
+    margin-top: 5%;
+    object-fit: contain;
+}
+.btn-login {
+    margin-top: 15%;
+}
+
+.login-sign{
+height: 80vh !important;
+}
+.Group-2155 {
+    padding: 0px 50px;
+    height: 57px;
+    object-fit: contain;
+    background-color: #dadada;
+    color: #000;
+    font-family: Cairo;
+    font-size: 19px;
+    font-weight: bold !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.89;
+    letter-spacing: normal;
+    border: none;
+    outline: none;
+    opacity: 0.5;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.text-link {
+    text-align: center;
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+}
+.text-link P {
+    width: 228px;
+    font-family: Cairo;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.92;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+.link-login {
+    font-family: Cairo;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.92;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+  /* Extra small devices (portrait phones, less than 576px) */
+  @media (max-width: 575.98px) {
+    .body{
+        background:#000;
+    }
+    .shadow-soft{
+        margin-left: 25px;
+    }
+    
+    
+   
+  }
+    /* Small devices (landscape phones, 576px and up) */
+    @media (min-width: 576px) and (max-width: 767.98px) { 
+        .body{
+            background:#000;
+        }
+        .shadow-soft{
+            margin-left: 25px;
+        }
+    }
+
+  /* Medium devices (tablets, 768px and up) */
+
+  @media (min-width: 768px) and (max-width: 991.98px) { 
+    .logo-media{
+        display: none;
+    }  
+    .conten2{
+        margin-top: 10%;
+    }
+    .Group-2155{
+        padding: 0px 70px;
+    }
+    .Group-15{
+        display: none;
+    }
+    /*.login-sign{
+        height: 50vh;
+        margin-left: 35%;
+
+    }*/
+  }
+
+    /* Large devices (desktops, 992px and up) */
+
+    @media (min-width: 992px) and (max-width: 1199.98px) { 
+        .logo-media{
+            display: none;
+        } 
+        .conten2{
+            margin-top: 10%;
+        }
+        .Group-2155{
+            padding: 0px 200px;
+        }
+        .text-link P  , .link-login{
+            font-size: 20px;
+            width: 100%;
+        }
+        .Group-15{
+            width: 60%;
+            height: auto;
+        }
+        .Group-15{
+            display: none;
+        }
+        .login-sign{
+            height: 50vh;
+            /*margin-left: 35%;*/
+
+        }
+    }
+      /* Extra large devices (large desktops, 1200px and up) */
+      @media (min-width: 1200px) {
+          .logo-media{
+              display: none;
+          }
+        
+        .Group-15{
+            width: auto;
+            height: auto;
+        }
+        
+        .Group-15{
+            display: none;
+        }
+        .login-sign{
+            height: 50vh;
+            margin-left: 35%;
+        }
+      }
+      .circle-wrap {
+        margin: 0px 10px;
+        width: 100px;
+        height: 100px;
+        background: #e6e2e7;
+        border-radius: 50%;
+      }
+      .circle-wrap .circle .mask,
+.circle-wrap .circle .fill {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+}
+.circle-wrap .circle .mask {
+    clip: rect(6px, 174px, 171px, 68px);
+  }
+  .circle-wrap .circle .mask .fill {
+    clip: rect(0px, 75px, 150px, 0px);
+    background-color: gray;
+  }
+  .circle-wrap .circle .mask.full,
+  .circle-wrap .circle .fill {
+    animation: fill ease-in-out 3s;
+    transform: rotate(126deg);
+  }
+   
+  @keyframes fill {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(126deg);
+    }
+  }
+
+  .circle-wrap .inside-circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: -webkit-linear-gradient(#eee, #a1a1a1);
+    line-height: 86px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    position: absolute;
+    z-index: 100;
+    font-weight: 700;
+    font-size: 2em;
+}

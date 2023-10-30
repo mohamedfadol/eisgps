@@ -1,0 +1,60 @@
+
+  /* Extra small devices (portrait phones, less than 576px) */
+  @media (max-width: 575.98px) {
+
+    .yello , .car_name {
+        font-size: 10px;
+    }
+    .car-img{
+        height: 70px;
+        width: 100px;
+    }
+    .properti1{
+        margin-bottom: 5%;
+    }
+  }
+
+  
+  
+  /* Small devices (landscape phones, 576px and up) */
+  @media (min-width: 576px) and (max-width: 767.98px) { 
+    .yello , .car_name {
+        font-size: 10px;
+    }
+    .car-img{
+        height: 70px;
+        width: 100px;
+    }
+    .properti1{
+        margin-bottom: 5%;
+    }
+  }
+
+  
+  /* Medium devices (tablets, 768px and up) */
+  @media (min-width: 768px) and (max-width: 991.98px) {  
+    .yello , .car_name {
+        font-size: 10px;
+    }
+    .car-img{
+        height: 70px;
+        width: 100px;
+    }
+    .properti1{
+        margin-bottom: 5%;
+    }
+  }
+
+
+  
+  /* Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) and (max-width: 1199.98px) { 
+
+
+
+}
+
+  /* Extra large devices (large desktops, 1200px and up) */
+  @media (min-width: 1200px) { 
+
+  }

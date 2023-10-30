@@ -1,0 +1,9 @@
+.login-btn-color{
+    background-color: #d5a751;
+    color: white;
+    border-color: #d5a751
+}
+
+.checkboxAll{
+    padding: 0rem 0.5rem !important;
+}
